@@ -1,0 +1,16 @@
+
+  
+  td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px ;
+  }
+  
+  tr:nth-child(even) {
+    background-color: white;
+  }
+
+  .list-header{
+    text-align: center;
+    text-decoration:underline;
+  }
